@@ -1,5 +1,4 @@
-# spa_groupwork
-
+# BL-Novel
 ## Project setup
 ```
 npm install
